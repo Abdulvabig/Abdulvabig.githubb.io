@@ -1,0 +1,54 @@
+body{
+	background-image: url("C:/Users/USER/Desktop/wallpaper/300980.jpg");
+	background-size: cover;
+	color: white;
+}
+.alen {
+	background-color: #33;
+	overflow: hidden;
+
+}
+.alen a{
+	float: left;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+.alen a:hover{
+	background-color: #ddd;
+	color: black;
+}
+.alen a.active{
+	background-color: #04AA6D;
+	color: white;}
+.div1{
+	font-size: 40px;
+	font-family: fantasy;
+	text-decoration-color: blue;
+	border-left: 2px solid black;
+	border-top: 2px solid black;
+	box-shadow: 4px 3px 2px #888888;
+	width: 800px;
+	text-align: center;
+	background-color: white;
+	color: blue;
+	margin-left: 100px;
+	
+}
+
+.pragraph{
+	color: royalblue;
+	font-size: 15px;
+}
+img{
+	height: 300px;
+	float: left;
+	margin: 2px;
+	transition: all 1s;
+}
+img:hover {
+	transform: scale(1.1);
+}
+
